@@ -1,0 +1,3 @@
+#!/bin/bash
+echo 1=190 > /dev/servoblaster
+sleep 1

@@ -1,0 +1,5 @@
+#!/bin/bash
+echo 1=150 > /dev/servoblaster
+sleep 1
+echo 0=120 > /dev/servoblaster
+sleep 1
